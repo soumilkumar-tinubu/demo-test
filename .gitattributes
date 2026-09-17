@@ -1,0 +1,8 @@
+
+# Merge definition archives structurally. Needs `bcmerge install-merge`
+# once per clone — git will not run a command a repository merely asks for.
+Definitions/**/*.zip merge=bcdef
+
+# Show definition archives as text in diffs. Needs `bcmerge install-diff`
+# once per clone, because the command itself cannot live in this file.
+Definitions/**/*.zip diff=bcdef
