@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="11.0.0.2414" Uuid="7ac9c440-01aa-4d31-ae87-ba56fd27fb22">
+  <Definitions>
+    <Definition Filename="Definitions/Application/Application.zip" />
+    <Definition Filename="Definitions/Process/ProcessName.zip" />
+    <Definition Filename="Definitions/Product/ProductName.zip" />
+    <Definition Filename="Definitions/Productcategorization/ProductCategorization.zip" />
+    <Definition Filename="Definitions/Search/FreeTextSearch.zip" />
+    <Definition Filename="Definitions/Shoppingcart/Shoppingcart.zip" />
+    <Definition Filename="Definitions/Shoppingcartitem/ShoppingcartItem.zip" />
+    <Definition Filename="Definitions/Zonedefinition/ZoneDefinition.zip" />
+  </Definitions>
+</Project>

@@ -1,0 +1,14 @@
+.skyeHighlightPremium {
+        font-weight: bold;
+        color: #039;
+        font-size: 15px;
+        background: rgb(217, 226, 250);
+}
+
+.skyeHighlightPremium  label{
+        font-weight: bold;
+}
+
+.skyePriceDisplay {
+        margin-left: 7px;
+}
